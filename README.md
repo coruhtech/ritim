@@ -5,96 +5,52 @@
 [![Build Status](https://img.shields.io/badge/Build-Production-brightgreen.svg)]()
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)]()
 
-## ⚠️ IMPORTANT LEGAL NOTICE / ÖNEMLİ HUKUKİ UYARI
+## ⚠️ YASAL UYARI / LEGAL NOTICE
 
-### English
+### 🇹🇷 Türkçe
 
-**Copyright © 2025 CORUH ARGE VE TEKNOLOJI LTD. ŞTI. All Rights Reserved.**
+**© 2025 CORUH ARGE VE TEKNOLOJİ LTD. ŞTİ. - TÜM HAKLARI SAKLIDIR**
 
-This software is the proprietary and confidential information of CORUH ARGE VE TEKNOLOJI LTD. ŞTI. ("Proprietary Information"). This is a production deployment of proprietary software.
+Bu yazılım, CORUH ARGE VE TEKNOLOJİ LTD. ŞTİ.'nin tescilli ve özel mülkiyetindeki yazılımıdır.
 
-**STRICTLY PROHIBITED:**
-- Unauthorized use, reproduction, or distribution of this software
-- Reverse engineering, decompilation, or disassembly
-- Modification, adaptation, or creation of derivative works
-- Commercial use without explicit written permission
-- Redistribution in any form without prior written consent
+**İZİNSİZ KULLANILAMAZ**
 
-**LEGAL WARNING:** Any unauthorized use, distribution, or modification of this software may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.
+Bu yazılımı kullanmak için firma ile iletişime geçmeniz gerekmektedir.
 
-### Türkçe
+### 🇬🇧 English
 
-**Telif Hakkı © 2025 CORUH ARGE VE TEKNOLOJİ LTD. ŞTİ. Tüm Hakları Saklıdır.**
+**© 2025 CORUH ARGE VE TEKNOLOJİ LTD. ŞTİ. - ALL RIGHTS RESERVED**
 
-Bu yazılım CORUH ARGE VE TEKNOLOJİ LTD. ŞTİ.'nin mülkiyetinde olan ve gizli bilgi niteliğinde olan yazılımdır. Bu, tescilli yazılımın üretim dağıtımıdır.
+This is proprietary software owned by CORUH ARGE VE TEKNOLOJİ LTD. ŞTİ.
 
-**KESİNLİKLE YASAKTIR:**
-- Bu yazılımın izinsiz kullanımı, çoğaltılması veya dağıtılması
-- Tersine mühendislik, kaynak koda dönüştürme veya parçalarına ayırma
-- Değiştirme, uyarlama veya türev eserler oluşturma
-- Açık yazılı izin olmadan ticari kullanım
-- Önceden yazılı onay almadan herhangi bir şekilde yeniden dağıtım
+**UNAUTHORIZED USE IS PROHIBITED**
 
-**HUKUKİ UYARI:** Bu yazılımın izinsiz kullanımı, dağıtımı veya değiştirilmesi ciddi hukuki ve cezai yaptırımlara tabi olup, kanunların izin verdiği azami ölçüde takip edilecektir.
+To use this software, you must contact the company.
 
 ---
 
 ## 📋 Hakkında / About
 
-**TR:** MUDEK Ders Değerlendirme Sistemi, mühendislik eğitim programlarının MUDEK akreditasyonu süreçlerini destekleyen kurumsal bir yazılım çözümüdür.
+**TR:** MUDEK akreditasyon süreçleri için kurumsal değerlendirme sistemi.
 
-**EN:** MUDEK Course Assessment System is an enterprise software solution that supports MUDEK accreditation processes for engineering education programs.
-
-## 🔒 Lisans / License
-
-### Proprietary Software License
-
-This software is licensed under a proprietary license. All rights are reserved by CORUH ARGE VE TEKNOLOJI LTD. ŞTI.
-
-**Contact for Licensing:**
-- Company: CORUH ARGE VE TEKNOLOJİ LTD. ŞTİ.
-- Location: Dijitalpark Teknokent, Rize, Turkey
-- Web: [www.coruh.com.tr](http://www.coruh.com.tr)
-
-### Terms of Use / Kullanım Koşulları
-
-1. **NO WARRANTY:** This software is provided "AS IS" without warranty of any kind.
-2. **LIMITED LIABILITY:** In no event shall CORUH ARGE VE TEKNOLOJI LTD. ŞTI. be liable for any damages.
-3. **GOVERNING LAW:** This license shall be governed by the laws of the Republic of Turkey.
-4. **JURISDICTION:** Any disputes shall be resolved in the courts of Rize, Turkey.
+**EN:** Enterprise assessment system for MUDEK accreditation processes.
 
 ---
 
-## 🛡️ Security / Güvenlik
+## 🌐 Demo / Demo
 
-For security vulnerabilities, please contact through our website. All security vulnerabilities will be promptly addressed.
-
-Güvenlik açıkları için lütfen web sitemiz üzerinden iletişime geçin. Tüm güvenlik açıkları derhal ele alınacaktır.
-
----
-
-## 🌐 Access / Erişim
-
-**Production URLs / Üretim Adresleri:**
-- 🔗 Primary: https://coruhtech.github.io/ritim/
-- 🔗 Corporate: http://www.coruh.com.tr/ritim/
-
-## ✨ Features / Özellikler
-
-- 📊 **MUDEK Analysis / MUDEK Analizi**
-- 📝 **Assessment System / Değerlendirme Sistemi**
-- 📧 **Reporting / Raporlama**
-- 💾 **Data Management / Veri Yönetimi**
-- 🔒 **Secure / Güvenli**
+- **GitHub Pages:** https://coruhtech.github.io/ritim/
+- **Corporate:** http://www.coruh.com.tr/ritim/
 
 ---
 
-## 📞 Contact / İletişim
+## 📞 Lisans İçin İletişim / Contact for Licensing
 
 **CORUH ARGE VE TEKNOLOJİ LTD. ŞTİ.**
-- 🌐 Web: [www.coruh.com.tr](http://www.coruh.com.tr)
-- 📍 Address: Fener Mah. Atatürk Cad. No:28/2 İç Kapı No:3, Merkez/Rize, Turkey
-- 🏢 Teknokent: Dijitalpark Teknokent Rize
+
+🌐 **Web:** www.coruh.com.tr
+
+📍 **Adres:** Dijitalpark Teknokent, Rize, Turkey
 
 ---
 
@@ -102,9 +58,7 @@ Güvenlik açıkları için lütfen web sitemiz üzerinden iletişime geçin. T�
 
 **© 2025 CORUH ARGE VE TEKNOLOJİ LTD. ŞTİ.**
 
-**ALL RIGHTS RESERVED / TÜM HAKLARI SAKLIDIR**
-
-**This is proprietary software. Unauthorized use is strictly prohibited.**
-**Bu tescilli yazılımdır. İzinsiz kullanım kesinlikle yasaktır.**
+**Bu yazılımın izinsiz kullanımı yasaktır.**
+**Unauthorized use of this software is prohibited.**
 
 </div>
