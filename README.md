@@ -37,7 +37,7 @@ To use this software, you must contact the company.
 
 ---
 
-## 🌐 Demo / Demo
+## 🌐 Production / Üretim Ortamı
 
 - **GitHub Pages:** https://coruhtech.github.io/ritim/
 - **Corporate:** http://www.coruh.com.tr/ritim/
