@@ -9,9 +9,9 @@
 
 ### English
 
-**Copyright © 2025 CORUH ARGE VE TEKNOLOJI A.Ş. All Rights Reserved.**
+**Copyright © 2025 CORUH ARGE VE TEKNOLOJI LTD. ŞTI. All Rights Reserved.**
 
-This software is the proprietary and confidential information of CORUH ARGE VE TEKNOLOJI A.Ş. ("Proprietary Information"). This is a production deployment of proprietary software.
+This software is the proprietary and confidential information of CORUH ARGE VE TEKNOLOJI LTD. ŞTI. ("Proprietary Information"). This is a production deployment of proprietary software.
 
 **STRICTLY PROHIBITED:**
 - Unauthorized use, reproduction, or distribution of this software
@@ -24,9 +24,9 @@ This software is the proprietary and confidential information of CORUH ARGE VE T
 
 ### Türkçe
 
-**Telif Hakkı © 2025 CORUH ARGE VE TEKNOLOJİ A.Ş. Tüm Hakları Saklıdır.**
+**Telif Hakkı © 2025 CORUH ARGE VE TEKNOLOJİ LTD. ŞTİ. Tüm Hakları Saklıdır.**
 
-Bu yazılım CORUH ARGE VE TEKNOLOJİ A.Ş.'nin mülkiyetinde olan ve gizli bilgi niteliğinde olan yazılımdır. Bu, tescilli yazılımın üretim dağıtımıdır.
+Bu yazılım CORUH ARGE VE TEKNOLOJİ LTD. ŞTİ.'nin mülkiyetinde olan ve gizli bilgi niteliğinde olan yazılımdır. Bu, tescilli yazılımın üretim dağıtımıdır.
 
 **KESİNLİKLE YASAKTIR:**
 - Bu yazılımın izinsiz kullanımı, çoğaltılması veya dağıtılması
@@ -49,17 +49,17 @@ Bu yazılım CORUH ARGE VE TEKNOLOJİ A.Ş.'nin mülkiyetinde olan ve gizli bilg
 
 ### Proprietary Software License
 
-This software is licensed under a proprietary license. All rights are reserved by CORUH ARGE VE TEKNOLOJI A.Ş.
+This software is licensed under a proprietary license. All rights are reserved by CORUH ARGE VE TEKNOLOJI LTD. ŞTI.
 
 **Contact for Licensing:**
-- Company: CORUH ARGE VE TEKNOLOJİ A.Ş.
+- Company: CORUH ARGE VE TEKNOLOJİ LTD. ŞTİ.
 - Location: Dijitalpark Teknokent, Rize, Turkey
 - Web: [www.coruh.com.tr](http://www.coruh.com.tr)
 
 ### Terms of Use / Kullanım Koşulları
 
 1. **NO WARRANTY:** This software is provided "AS IS" without warranty of any kind.
-2. **LIMITED LIABILITY:** In no event shall CORUH ARGE VE TEKNOLOJI be liable for any damages.
+2. **LIMITED LIABILITY:** In no event shall CORUH ARGE VE TEKNOLOJI LTD. ŞTI. be liable for any damages.
 3. **GOVERNING LAW:** This license shall be governed by the laws of the Republic of Turkey.
 4. **JURISDICTION:** Any disputes shall be resolved in the courts of Rize, Turkey.
 
@@ -67,9 +67,9 @@ This software is licensed under a proprietary license. All rights are reserved b
 
 ## 🛡️ Security / Güvenlik
 
-If you discover a security vulnerability, please email security@coruh.com.tr. All security vulnerabilities will be promptly addressed.
+For security vulnerabilities, please contact through our website. All security vulnerabilities will be promptly addressed.
 
-Güvenlik açığı keşfederseniz, lütfen security@coruh.com.tr adresine e-posta gönderin. Tüm güvenlik açıkları derhal ele alınacaktır.
+Güvenlik açıkları için lütfen web sitemiz üzerinden iletişime geçin. Tüm güvenlik açıkları derhal ele alınacaktır.
 
 ---
 
@@ -91,8 +91,7 @@ Güvenlik açığı keşfederseniz, lütfen security@coruh.com.tr adresine e-pos
 
 ## 📞 Contact / İletişim
 
-**CORUH ARGE VE TEKNOLOJİ A.Ş.**
-- 📧 Email: info@coruh.com.tr
+**CORUH ARGE VE TEKNOLOJİ LTD. ŞTİ.**
 - 🌐 Web: [www.coruh.com.tr](http://www.coruh.com.tr)
 - 📍 Address: Fener Mah. Atatürk Cad. No:28/2 İç Kapı No:3, Merkez/Rize, Turkey
 - 🏢 Teknokent: Dijitalpark Teknokent Rize
@@ -101,7 +100,7 @@ Güvenlik açığı keşfederseniz, lütfen security@coruh.com.tr adresine e-pos
 
 <div align="center">
 
-**© 2025 CORUH ARGE VE TEKNOLOJİ A.Ş.**
+**© 2025 CORUH ARGE VE TEKNOLOJİ LTD. ŞTİ.**
 
 **ALL RIGHTS RESERVED / TÜM HAKLARI SAKLIDIR**
 
