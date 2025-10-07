@@ -73,6 +73,12 @@ Güvenlik açığı keşfederseniz, lütfen security@coruh.com.tr adresine e-pos
 
 ---
 
+## 🌐 Access / Erişim
+
+**Production URLs / Üretim Adresleri:**
+- 🔗 Primary: https://coruhtech.github.io/ritim/
+- 🔗 Corporate: http://www.coruh.com.tr/ritim/
+
 ## ✨ Features / Özellikler
 
 - 📊 **MUDEK Analysis / MUDEK Analizi**
