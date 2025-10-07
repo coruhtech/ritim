@@ -1,0 +1,64 @@
+# RİTİM - RTEÜ Kalite İzleme ve Takip Modülü - Plesk .htaccess Konfigürasyonu
+# =====================================================
+
+# Karakter kodlaması
+AddDefaultCharset UTF-8
+
+# Index dosyası
+DirectoryIndex index.html
+
+# Cache kontrolü (geliştirme aşamasında cache'i devre dışı bırakabilirsiniz)
+<IfModule mod_headers.c>
+    # HTML dosyaları için cache'i devre dışı bırak
+    <FilesMatch "\.(html)$">
+        Header set Cache-Control "no-cache, no-store, must-revalidate"
+        Header set Pragma "no-cache"
+        Header set Expires "0"
+    </FilesMatch>
+    
+    # Statik dosyalar için cache ayarları
+    <FilesMatch "\.(css|js|jpg|jpeg|png|gif|ico|svg)$">
+        Header set Cache-Control "max-age=31536000, public"
+    </FilesMatch>
+</IfModule>
+
+# CORS ayarları (gerekirse)
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+    Header set Access-Control-Allow-Methods "GET, POST, OPTIONS"
+    Header set Access-Control-Allow-Headers "Content-Type"
+</IfModule>
+
+# Güvenlik başlıkları
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "SAMEORIGIN"
+    Header set X-XSS-Protection "1; mode=block"
+</IfModule>
+
+# MIME type ayarları
+<IfModule mod_mime.c>
+    AddType application/javascript .js
+    AddType text/css .css
+    AddType application/json .json
+</IfModule>
+
+# Hata sayfaları (opsiyonel)
+ErrorDocument 404 /ritim/index.html
+ErrorDocument 403 /ritim/index.html
+
+# Dizin listelemeyi engelle
+Options -Indexes
+
+# URL yeniden yazma (eğer alt dizinde çalışacaksa)
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    
+    # Alt dizin için base ayarı
+    RewriteBase /ritim/
+    
+    # Dosya veya dizin yoksa index.html'e yönlendir
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^.*$ index.html [L]
+</IfModule>
