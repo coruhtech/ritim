@@ -1,18 +1,7 @@
 # GitHub Pages Configuration
 title: MUDEK Ders Değerlendirme Sistemi
 description: Mühendislik Eğitim Programları İçin MUDEK Akreditasyon ve Ders Değerlendirme Sistemi
-theme: jekyll-theme-minimal
 encoding: UTF-8
-
-# Build settings
-exclude:
-  - git-scripts/
-  - build-config.js
-  - version-info.js
-  - test-data.json
-  - .gitignore
-  - "*.bat"
-  - "*.sh"
 
 # GitHub Pages settings
 baseurl: ""
