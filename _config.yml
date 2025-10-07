@@ -1,7 +1,2 @@
-# GitHub Pages Configuration
-# No Jekyll processing needed - site is already built
+# GitHub Pages - No Jekyll Processing
 jekyll: false
-
-# Basic metadata
-title: MUDEK Ders Değerlendirme Sistemi
-description: Mühendislik Eğitim Programları İçin MUDEK Akreditasyon ve Ders Değerlendirme Sistemi
